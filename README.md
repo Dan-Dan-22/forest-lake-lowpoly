@@ -35,5 +35,4 @@ Nella scheda Scena, in Proprietà Personalizzate:
 - [ ] Render finale
 
 ## Crediti e licenze
-I modelli importati sono di terzi: autori e licenze in `CREDITS.md`.
-Il resto della scena è opera mia.
+I modelli importati sono di terzi, il resto della scena è opera mia.
